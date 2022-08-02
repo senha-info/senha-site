@@ -425,6 +425,11 @@ footer .social a:hover {
   transform: translateY(0);
 }
 
+#privacy-police .text p {
+  line-height: 1.5rem;
+  margin-top: 1rem;
+}
+
 @media (min-width: 1200px) {
   .container {
     max-width: 1120px;
